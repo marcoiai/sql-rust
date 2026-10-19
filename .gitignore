@@ -1,0 +1,8 @@
+/explain_tradutor
+/target/
+/.agents/
+/.codex/
+/.aws/
+.env
+.env.*
+!.env.example
